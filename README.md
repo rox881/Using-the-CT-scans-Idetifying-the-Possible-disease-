@@ -1,7 +1,11 @@
-🩺 CT Scan Analysis Assistant
+**🩺 CT Scan Analysis Assistant**
+
 This project is a web-based application built with Streamlit that uses a deep learning model to analyze medical CT scan images. Users can upload a scan, and the application will predict one of several lung conditions (including adenocarcinoma, large cell carcinoma, squamous cell carcinoma) or classify the scan as normal. The analysis results, including confidence scores for each class, are presented on-screen and can be downloaded as a PDF report.
 
-(It is highly recommended to replace the placeholder above with a screenshot of your application in action.)
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/d846ce19-544d-44b5-9626-21000e8fb375" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/8389641d-5048-4567-a35c-eb3d8ed19a53" />
+
+
 
 ✨ Features
 Easy Image Upload: Simple interface to upload CT scan images in various formats (JPG, PNG, BMP).
